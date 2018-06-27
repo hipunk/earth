@@ -16,7 +16,7 @@ building and launching
 
 After installing node.js and npm, clone "earth" and install dependencies:
 
-    git clone https://github.com/cambecc/earth
+    git clone https://github.com/hipunk/earth
     cd earth
     npm install
 
